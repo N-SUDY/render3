@@ -16,3 +16,4 @@ lxml
 requests
 messages
 js2py
+megasdk
