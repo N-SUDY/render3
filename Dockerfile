@@ -1,4 +1,4 @@
 FROM reaitten/tgtlg:latest
 WORKDIR /app
 COPY . .
-#EXPOSE 5000
+EXPOSE 5000
